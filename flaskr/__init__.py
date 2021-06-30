@@ -25,7 +25,7 @@ def create_app(test_config=None):
         pass
 
     # a simple page that says hello
-    @app.route('/1313')
+    @app.route('/')
     def hello():
         return 'Hello, World!'
     
