@@ -6,7 +6,10 @@
 ![gitpod打开](https://note.youdao.com/yws/api/personal/file/WEB67244d4937d43e0f14134b92c74cf900?method=download&shareKey=e41d71aad8092a794e44f4b5ef8a4d95)
 
 ## 二:安装Flask  
-在gitpod控制台输入:pip install bootstrap-flask  如图所示
+在gitpod控制台输入:                 
+pip install bootstrap-flask            
+flask init-db              
+如图所示
 ![控制台](https://note.youdao.com/yws/api/personal/file/WEBffa48278e0dca15d46de66f97c00e8f0?method=download&shareKey=4ccb547de3c6708246cbd6cc533e7578)    
 回车确定后,出现以下内容,则安装完成
 ![安装完成](https://note.youdao.com/yws/api/personal/file/WEBa9c947d2a3e0a771d02ac742b04cc223?method=download&shareKey=5ae233f42ea84379c1f08f33b1094986)
