@@ -16,7 +16,7 @@ $ export FLASK_APP=flaskr
 $ export FLASK_ENV=development    
 $ flask run   
 并确定,如图所示
-![运行](https://note.youdao.com/yws/api/personal/file/WEB2a400f7c0a295cf9f38ccdab893fdaa9?method=download&shareKey=ab8aa0f24f6aabf478a36a35959e8170)
+![运行](https://note.youdao.com/yws/api/personal/file/WEB2a400f7c0a295cf9f38ccdab893fdaa9?method=download&shareKey=ab8aa0f24f6aabf478a36a35959e8170)     
 在控制台 CTRL+鼠标左键点击 http://127.0.0.1:5000/  打开网页    
     
     
