@@ -1,0 +1,17 @@
+{% block styles %}
+<!-- Bootstrap CSS -->
+{{ bootstrap.load_css() }}
+{% endblock %}
+
+{% block content %}
+<h1>Hello, Bootstrap</h1>
+<button class="btn">按钮</button>
+
+<button class="btn btn-primary">按钮</button>
+{% endblock %}
+
+
+{% block scripts %}
+<!-- Optional JavaScript -->
+{{ bootstrap.load_js() }}
+{% endblock %}
